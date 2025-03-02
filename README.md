@@ -104,5 +104,7 @@ Before installing Flutter, make sure your PC meets the following requirements:
 - Visit the official Flutter docs: [Flutter Docs](https://docs.flutter.dev)
 - Connect with me, Shrijal Shrestha:
   [Linkedin](https://www.linkedin.com/in/shrijal-shrestha-063421181/) | [Instagram](https://www.instagram.com/shrijalshr/)
+- Connect with me, Lakshyadeep Vikram Sah:
+  [Linkedin](https://www.linkedin.com/in/lakshydeep-14/) | [Medium](https://lakshydeep-14.medium.com) | [Youtube](https://m.youtube.com/@gowithflutter)
 
 **You are now ready to build Flutter apps!**
